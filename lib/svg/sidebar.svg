@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
+   width="18"
    height="16"
-   viewBox="0 0 16 16"
+   viewBox="0 0 18 16"
    version="1.1"
    id="svg3472"
    inkscape:version="0.91 r13725"
@@ -35,8 +35,8 @@
      guidetolerance="10000"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1145"
-     inkscape:window-height="924"
+     inkscape:window-width="1252"
+     inkscape:window-height="931"
      id="namedview3483"
      showgrid="true"
      inkscape:zoom="35.311145"
@@ -74,7 +74,7 @@
        id="browser"
        style="fill:#000000">
       <path
-         d="m 14.013741,13.833333 -13.14361693,0 0.13741153,-11.6666664 13.1436174,0 z M 15.089982,2.1666666 c 0.0065,-0.5500589 -0.375088,-1.16666666 -0.925088,-1.16666666 l -13.1436173,0 c -0.55,0 -0.95257094,0.61666666 -0.95257094,1.16666666 L -0.06870572,13.833333 c 0,0.55 0.37508865,1.166667 0.92508865,1.166667 L 14,15 c 0.55,0 0.946092,-0.616608 0.952571,-1.166667 z"
+         d="M 15.87766,15 0.85638292,15 1.0212767,0.99999994 l 15.0212763,0 z M 16.981383,0.99999994 c 0.0065,-0.5500589 -0.375088,-1.16666667 -0.925088,-1.16666667 l -15.0212772,0 c -0.54999995,0 -0.95257089,0.61666667 -0.95257089,1.16666667 L -0.08244687,15 c 0,0.55 0.37508865,1.166667 0.92508865,1.166667 l 15.02127622,0 c 0.55,0 0.946093,-0.616608 0.952571,-1.166667 z"
          id="Shape"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccsccccssss" />
@@ -86,7 +86,7 @@
     </g>
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.04656649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1.9326242,3.3333333 -0.1099292,9.3333337 1.8776596,0 0.1099292,-9.3333337 z"
+       d="m 1.9463653,2.1666666 -0.1374114,11.6666664 1.8776596,0 0.1374114,-11.6666664 z"
        id="path4465"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
