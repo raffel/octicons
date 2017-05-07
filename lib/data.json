@@ -111,6 +111,11 @@
       "signal"
     ]
   },
+  "sidebar": {
+    "keywords": [
+      "sidepanel"
+    ]
+  },
   "browser": {
     "keywords": [
       "window",

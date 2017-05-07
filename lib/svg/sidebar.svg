@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg3472"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="sidebar.svg">
+  <metadata
+     id="metadata3485">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>browser</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10000"
+     gridtolerance="10000"
+     guidetolerance="10000"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1145"
+     inkscape:window-height="924"
+     id="namedview3483"
+     showgrid="true"
+     inkscape:zoom="35.311145"
+     inkscape:cx="6.9662825"
+     inkscape:cy="10.403004"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Octicons"
+     inkscape:snap-path-clip="true"
+     inkscape:snap-path-mask="true"
+     inkscape:snap-perpendicular="true"
+     inkscape:snap-tangential="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3499"
+       dotted="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title3474">browser</title>
+  <desc
+     id="desc3476">Created with Sketch.</desc>
+  <defs
+     id="defs3478" />
+  <g
+     id="Octicons"
+     transform="matrix(1.0651558,0,0.01254554,0.85714285,-0.10036434,1.1428572)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <g
+       id="browser"
+       style="fill:#000000">
+      <path
+         d="m 14.013741,13.833333 -13.14361693,0 0.13741153,-11.6666664 13.1436174,0 z M 15.089982,2.1666666 c 0.0065,-0.5500589 -0.375088,-1.16666666 -0.925088,-1.16666666 l -13.1436173,0 c -0.55,0 -0.95257094,0.61666666 -0.95257094,1.16666666 L -0.06870572,13.833333 c 0,0.55 0.37508865,1.166667 0.92508865,1.166667 L 14,15 c 0.55,0 0.946092,-0.616608 0.952571,-1.166667 z"
+         id="Shape"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccsccccssss" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.04656649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1.9326242,3.3333334 -0.1099292,9.3333336 0.9388298,0 0.1099292,-9.3333336 z"
+         id="path4463"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.04656649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1.9326242,3.3333333 -0.1099292,9.3333337 1.8776596,0 0.1099292,-9.3333337 z"
+       id="path4465"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
